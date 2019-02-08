@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CCK</string>
+    <string name="crtnaKoda">Črtna koda</string>
+    <string name="preberiKodo">Preberi kodo</string>
+    <string name="manualEntry">Ročni vnos</string>
+    <string name="noCameraPermission">Aplikacija nima dovoljenja za uporabo kamere!</string>
+    <string name="cameraPermissionGranted">Dovoljenje za kamero pridobljeno!</string>
+</resources>
